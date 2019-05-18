@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireBaseDemo</string>
+    <string name="BodyText">Body</string>
+    <string name="noteTitle">Note Title</string>
+    <string name="NextBtn">Next</string>
+    <string name="close">Close</string>
+    <string name="titleNote">Note</string>
+    <string name="UserNamee">UserName</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="facebook_app_id">272022473704521</string>
+    <string name="fb_login_protocol_scheme">fb272022473704521</string>
+
+</resources>
